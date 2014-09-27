@@ -1,0 +1,6 @@
+var slides = require('@local/slides')
+var show   = require('@local/show')(slides)
+var keys   = require('mousetrap')
+
+keys.bind(['left', 'up'], show.bind(null, -1))
+keys.bind(['right', 'down'], show.bind(null, +1))
