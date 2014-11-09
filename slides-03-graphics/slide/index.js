@@ -2,6 +2,8 @@ var noop = (function(){})
 
 module.exports = Slide
 
+var slide = Slide.prototype;
+
 function Slide(scope) {
   if (!(this instanceof Slide)) return new Slide(scope)
   this._enter = noop
@@ -9,22 +11,22 @@ function Slide(scope) {
   this.scope  = scope
 }
 
-Slide.prototype.enter = function(enter) {
+slide.enter = function(enter) {
   this._enter = enter
   return this
 }
 
-Slide.prototype.exit = function(exit) {
+slide.exit = function(exit) {
   this._exit = exit
   return this
 }
 
-Slide.prototype.enable = function() {
+slide.enable = function() {
   this._enter(this.scope)
   return this
 }
 
-Slide.prototype.disable = function() {
+slide.disable = function() {
   this._exit(this.scope)
   return this
 }

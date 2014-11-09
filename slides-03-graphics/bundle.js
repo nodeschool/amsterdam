@@ -3,8 +3,8 @@ var slides = require('@local/slides')
 var show   = require('@local/show')(slides)
 var keys   = require('mousetrap')
 
-keys.bind(['left', 'up'], show.bind(null, -1))
-keys.bind(['right', 'down'], show.bind(null, +1))
+keys.bind(['left', 'up', 'pageup'], show.bind(null, -1))
+keys.bind(['right', 'down', 'pagedown'], show.bind(null, +1))
 
 },{"@local/show":2,"@local/slides":106,"mousetrap":110}],2:[function(require,module,exports){
 "use strict";
@@ -8096,6 +8096,7 @@ function SlideTitle(title, name, update) {
 "use strict";
 var noop = (function() {});
 module.exports = Slide;
+var slide = Slide.prototype;
 function Slide(scope) {
   if (!(this instanceof Slide))
     return new Slide(scope);
@@ -8103,19 +8104,19 @@ function Slide(scope) {
   this._exit = noop;
   this.scope = scope;
 }
-Slide.prototype.enter = function(enter) {
+slide.enter = function(enter) {
   this._enter = enter;
   return this;
 };
-Slide.prototype.exit = function(exit) {
+slide.exit = function(exit) {
   this._exit = exit;
   return this;
 };
-Slide.prototype.enable = function() {
+slide.enable = function() {
   this._enter(this.scope);
   return this;
 };
-Slide.prototype.disable = function() {
+slide.disable = function() {
   this._exit(this.scope);
   return this;
 };
