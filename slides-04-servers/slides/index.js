@@ -1,5 +1,7 @@
 module.exports = [
   require('./intro'),
-  require('./three'),
-  require('./shaders')
+  require('./express'),
+  require('./hapi'),
+  require('./koa'),
+  require('./outro')
 ];
