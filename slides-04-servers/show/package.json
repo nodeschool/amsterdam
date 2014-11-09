@@ -1,0 +1,10 @@
+{
+  "name": "@local/show",
+  "version": "1.0.0",
+  "dependencies": {
+    "flatten": "0.0.1"
+  },
+  "browserify": {
+    "transform": ["es6ify"]
+  }
+}

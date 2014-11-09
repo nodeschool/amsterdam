@@ -1,0 +1,7 @@
+{
+  "name": "@local/slides",
+  "version": "1.0.0",
+  "browserify": {
+    "transform": ["es6ify"]
+  }
+}

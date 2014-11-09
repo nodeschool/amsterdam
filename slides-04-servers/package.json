@@ -1,0 +1,30 @@
+{
+  "name": "slides-04-servers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "linklocal --link",
+    "start": "beefy index.js:bundle.js --open",
+    "prepublish": "browserify index.js -o bundle.js"
+  },
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughsk.io/)",
+  "license": "ISC",
+  "dependencies": {
+    "@local/show": "file:show",
+    "@local/slide": "file:slide",
+    "@local/slide-circle": "file:slide-circle",
+    "@local/slide-code": "file:slide-code",
+    "@local/slide-combine": "file:slide-combine",
+    "@local/slide-image": "file:slide-image",
+    "@local/slide-title": "file:slide-title",
+    "@local/slides": "file:slides",
+    "es6ify": "^1.4.0",
+    "linklocal": "^2.0.0",
+    "mousetrap": "0.0.1"
+  },
+  "devDependencies": {
+    "beefy": "^2.1.1",
+    "browserify": "^5.12.0"
+  }
+}
