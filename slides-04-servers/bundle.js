@@ -6,7 +6,7 @@ var keys   = require('mousetrap')
 keys.bind(['left', 'up', 'pageup'], show.bind(null, -1))
 keys.bind(['right', 'down', 'pagedown'], show.bind(null, +1))
 
-},{"@local/show":2,"@local/slides":106,"mousetrap":110}],2:[function(require,module,exports){
+},{"@local/show":2,"@local/slides":108,"mousetrap":112}],2:[function(require,module,exports){
 "use strict";
 var progress = document.body.appendChild(document.createElement('div'));
 var flatten = require('flatten');
@@ -8136,12 +8136,36 @@ slide.disable = function() {
 
 },{}],106:[function(require,module,exports){
 "use strict";
-module.exports = [require('./intro'), require('./three'), require('./shaders')];
+var combine = require('@local/slide-combine');
+var circle = require('@local/slide-circle');
+var image = require('@local/slide-image');
+var title = require('@local/slide-title');
+var code = require('@local/slide-code');
+module.exports = [title('Express', 'h1'), title('Learn the basics of the Express.js framework.', 'h1'), title('Most used framework on npm', 'h1'), title('Large ecosystem', 'h1'), code(['var express = require(\'express\')', 'var app = express()', '', 'app.get(\'/\', function (req, res) {', '  res.send(\'Hello World\')', '})', '', 'app.listen(3000)'].join('\n'))];
 
 //# sourceMappingURL=<compileOutput>
 
 
-},{"./intro":107,"./shaders":108,"./three":109}],107:[function(require,module,exports){
+},{"@local/slide-circle":4,"@local/slide-code":5,"@local/slide-combine":102,"@local/slide-image":103,"@local/slide-title":104}],107:[function(require,module,exports){
+"use strict";
+var combine = require('@local/slide-combine');
+var circle = require('@local/slide-circle');
+var image = require('@local/slide-image');
+var title = require('@local/slide-title');
+var code = require('@local/slide-code');
+module.exports = [title('Hapi', 'h1'), title('Learn all about hapi through a series of challenges.', 'h1'), title('Developed by WalMart', 'h1'), title('Batteries included™', 'h1'), code(['var Hapi = require(\'hapi\');', '', 'var server = new Hapi.Server(\'localhost\', 8000);', '', 'server.route({', '  method: \'GET\',', '  path: \'/hello\',', '  handler: function (request, reply) {', '', '    reply(\'hello world\');', '  }', '});', '', 'server.start();'].join('\n'))];
+
+//# sourceMappingURL=<compileOutput>
+
+
+},{"@local/slide-circle":4,"@local/slide-code":5,"@local/slide-combine":102,"@local/slide-image":103,"@local/slide-title":104}],108:[function(require,module,exports){
+"use strict";
+module.exports = [require('./intro'), require('./express'), require('./hapi'), require('./koa'), require('./outro')];
+
+//# sourceMappingURL=<compileOutput>
+
+
+},{"./express":106,"./hapi":107,"./intro":109,"./koa":110,"./outro":111}],109:[function(require,module,exports){
 "use strict";
 var combine = require('@local/slide-combine');
 var circle = require('@local/slide-circle');
@@ -8149,39 +8173,40 @@ var image = require('@local/slide-image');
 var title = require('@local/slide-title');
 module.exports = [image('slides/images/logo.png', 0.5, (function(img) {
   return img.style.top = '45%';
-})), combine([circle('slides/images/nodesource.jpg', (function(circle) {
-  return circle.style.left = '40%';
+})), combine([title('e-Focus', 'h1', (function(img) {
+  return img.style.left = '35%';
 })), circle('slides/images/wercker.jpg', (function(circle) {
-  return circle.style.left = '60%';
+  return circle.style.left = '65%';
 }))]), title('#4: Servers!', 'h1'), title('Frameworks', 'h1')];
 
 //# sourceMappingURL=<compileOutput>
 
 
-},{"@local/slide-circle":4,"@local/slide-combine":102,"@local/slide-image":103,"@local/slide-title":104}],108:[function(require,module,exports){
+},{"@local/slide-circle":4,"@local/slide-combine":102,"@local/slide-image":103,"@local/slide-title":104}],110:[function(require,module,exports){
 "use strict";
 var combine = require('@local/slide-combine');
 var circle = require('@local/slide-circle');
 var image = require('@local/slide-image');
 var title = require('@local/slide-title');
 var code = require('@local/slide-code');
-module.exports = [title('Shader School', 'h1'), title('An introduction to GLSL shaders and graphics programming that runs in your web browser.', 'blockquote'), title('OpenGL Shading Language', 'h1'), title('GLSL', 'h1'), title('Cross-Platform', 'h2'), title('GPU Programming', 'h1'), title('Highly Parallel', 'h1'), code(['[1, 2, 3].map(function (x) {', '  return x * 2', '})'].join('\n')), title('Crazy Fast', 'h1'), title('Not for Free', 'h1'), title('No Infinite Loops', 'h1'), title('No Recursion', 'h1'), title('No Memory Allocation', 'h1'), title('No Strings', 'h1'), title('Good Luck!', 'h1')];
+module.exports = [title('Koa', 'h1'), title('Getting started with Koa, the next generation web framework for Node.js.', 'h1'), title('Spiritual successor to Express', 'h1'), title('Yields ES6', 'h1'), code(['var koa = require(\'koa\');', 'var app = koa();', '', 'app.use(function *(){', '  this.body = \'Hello World\';', '});', '', 'app.listen(3000);'].join('\n'))];
 
 //# sourceMappingURL=<compileOutput>
 
 
-},{"@local/slide-circle":4,"@local/slide-code":5,"@local/slide-combine":102,"@local/slide-image":103,"@local/slide-title":104}],109:[function(require,module,exports){
+},{"@local/slide-circle":4,"@local/slide-code":5,"@local/slide-combine":102,"@local/slide-image":103,"@local/slide-title":104}],111:[function(require,module,exports){
 "use strict";
 var combine = require('@local/slide-combine');
 var circle = require('@local/slide-circle');
 var image = require('@local/slide-image');
 var title = require('@local/slide-title');
-module.exports = [title('Intro to WebGL with three.js', 'h1'), title('Workshopper tutorial covering three.js basics including lighting, basic shapes, mouse projections, collision detection and physics.', 'blockquote'), title('three.js', 'h1'), title('Three.js is a lightweight cross-browser JavaScript library/API used to create and display animated 3D computer graphics on a Web browser.', 'blockquote'), image('slides/images/rome.jpg', null, null, 'http://ro.me'), image('slides/images/i-remember.jpg', null, null, 'http://i-remember.fr/en')];
+var code = require('@local/slide-code');
+module.exports = [title('Pizza @7', 'h1'), title('Good luck!', 'h1')];
 
 //# sourceMappingURL=<compileOutput>
 
 
-},{"@local/slide-circle":4,"@local/slide-combine":102,"@local/slide-image":103,"@local/slide-title":104}],110:[function(require,module,exports){
+},{"@local/slide-circle":4,"@local/slide-code":5,"@local/slide-combine":102,"@local/slide-image":103,"@local/slide-title":104}],112:[function(require,module,exports){
 /**
  * Copyright 2012 Craig Campbell
  *
