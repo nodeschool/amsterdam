@@ -27,7 +27,7 @@ please contact an organizer immediately.
 
 ### Nodeschool Amsterdam
 
-* Organizers: JP Wesselink (@jpwesselink), Davide Fiorello (@codeflyer) and Stefan Mirck (@stefanmirck)
+* Organizers: JP Wesselink (@jpwesselink) and Stefan Mirck (@stefanmirck)
 * Meetup URL: http://www.meetup.com/nodeschool-amsterdam/
 * Twitter: https://twitter.com/NodeSchoolAMS
 
