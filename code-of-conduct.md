@@ -27,8 +27,9 @@ please contact an organizer immediately.
 
 ### Nodeschool Amsterdam
 
-* Organizers: Hugh Kennedy (@hughskennedy), Yoshua Wuyts (@yoshuawuyts)
+* Organizers: JP Wesselink (@jswesselink), Rick Heere (@rickheere), Davide Fiorello (@codeflyer) and Stefan Mirck (@stefanmirck)
 * Meetup URL: http://www.meetup.com/nodeschool-amsterdam/
+* Twitter: https://twitter.com/NodeSchoolAMS
 
 **If you have questions or feedback about this Code of Conduct please contact
 one of the organizers.**
