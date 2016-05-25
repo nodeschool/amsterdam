@@ -5,12 +5,12 @@ Flyer for promotion the Amsterdam chapter in the Netherlands. Its purpose is to 
 
 ### Front
 
-![nodeschool-amsterdam-flyer-a5-tall-front](https://cloud.githubusercontent.com/assets/1814479/15540206/6fb41cac-2286-11e6-811b-a11440238db8.png)
-
+![nodeschool-amsterdam-flyer-a5-tall-front](https://cloud.githubusercontent.com/assets/1814479/15541156/6147ac10-228b-11e6-9731-e3bbed3975cf.png)
 
 ### Back
 
-![nodeschool-amsterdam-flyer-a5-tall-back](https://cloud.githubusercontent.com/assets/1814479/15540205/6f9e1f56-2286-11e6-84a2-fafd9a8c00ed.png)
+![nodeschool-amsterdam-flyer-a5-tall-back](https://cloud.githubusercontent.com/assets/1814479/15541163/6b11b0ce-228b-11e6-8ca9-07afe578ae51.png)
+
 
 
 ## Dimensions
