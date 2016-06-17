@@ -1,1 +1,0 @@
-# NodeSchool Amsterdam sticker template
