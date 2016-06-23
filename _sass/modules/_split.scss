@@ -1,0 +1,50 @@
+.yellow-bar {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	background-color: $barColour;
+	.caption {
+		color: $headingColour;
+	}
+	p {
+		a {
+			text-shadow: 0.1rem 0 $barColour, 0.15rem 0 $barColour, -0.1rem 0 $barColour, -0.15rem 0 $barColour;
+		}
+	}
+}
+aside,
+.aside {
+	.centered {
+		text-align: center;
+	}
+	position: relative;
+	width: 100%;
+	background-image: url(../assets/images/nodeschool-amsterdam-background-triangles.png);
+	@include breakpoint(break-1) {
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 25%;
+		height: 100%;
+	}
+	.logo {
+		max-width: 200px;
+		display: block;
+		margin: auto;
+		@include breakpoint(break-1) {
+			max-width: 90%;
+		}
+	}
+	.what-we-do {
+		text-align: center;
+		font-weight: bold;
+	}
+}
+.main {
+	position: relative;
+	width: 100%;
+	@include breakpoint(break-1) {
+		float: right;
+		width: 75%;
+	}
+}

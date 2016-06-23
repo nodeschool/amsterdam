@@ -1,0 +1,40 @@
+.yellow-bar {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	background-color: #fbdd33;
+}
+
+aside {
+	position: relative;
+	width: 100%;
+	background-image: url('../assets/images/nodeschool-amsterdam-background-triangles.png');
+
+	@include breakpoint(break-1) {
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 25%;
+		height: 100%;
+	}
+	.logo {
+		max-width: 200px;
+		display: block;
+		margin: auto;
+		@include breakpoint(break-1) {
+			max-width: 90%;
+		}
+	}
+	.what-we-do {
+		text-align: center;
+		font-weight: bold;
+	}
+}
+.main {
+	position: relative;
+	width: 100%;
+	@include breakpoint(break-1) {
+		float: right;
+		width: 75%;
+	}
+}
