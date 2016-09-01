@@ -60,7 +60,7 @@ Note:
 	</a>
 	<a class="host">
 		<img src="images/watilde.jpeg">
-		<span>Daijiro</span>
+		<span>Jiro</span>
 		<i class="twitter">@watilde</i>
 	</a>
 	<a class="host">
