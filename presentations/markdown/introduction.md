@@ -1,4 +1,4 @@
-## Welcome to NodeSchool Amsterdam
+### Welcome to NodeSchool Amsterdam
 <img src="images/nodeschool-logo.png" style="border: 0; box-shadow: none; ">
 #### Workshop #5: Back to school!
 
