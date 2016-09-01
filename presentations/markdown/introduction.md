@@ -5,7 +5,7 @@
 
 ### NodeSchool?
 
-NodeSchool are open source workshops that teach web software skills.
+NodeSchool are open source workshops that teach essential web software skills.
 
 Note:
 - run by volunteers
