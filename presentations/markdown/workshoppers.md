@@ -27,7 +27,7 @@ $ npm install -g git-it
 
 ## Recommended electives
 
-If you want to challenge yourself by selecting an elective, we recommend the following workshoppers
+If you want to challenge yourself by selecting an elective, we recommend the following workshoppers:
 
 <pre><code>$ npm install -g functional-javascript-workshop
 
@@ -43,7 +43,7 @@ $ npm install -g expressworks
 
 ## 💀 electives
 
-If you want to challenge yourself even more, we challenge you with the following workshoppers
+If you want to challenge yourself even more, we challenge you with the following workshoppers:
 
 <pre><code>$ npm install -g bacon-love
 
@@ -55,10 +55,3 @@ $ npm install -g goingnative
 </code></pre>
 
 For a list of all electives, visit:<br><a href="http://nodeschool.io/#workshopper-list">http://nodeschool.io/#workshopper-list</a>
-
-
-## Let's team up!
-
-Now find someone to team up with. The mentors will help you out.<!-- .element: class="fragment"  -->
-Got yourself a partner?<!-- .element: class="fragment"  -->
-# NODE!<!-- .element: class="fragment"  -->
