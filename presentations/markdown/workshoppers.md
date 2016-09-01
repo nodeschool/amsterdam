@@ -62,4 +62,4 @@ $ npm install -g goingnative
 
 Now find someone to team up with. The mentors will help you out.<!-- .element: class="fragment"  -->
 Got yourself a partner?<!-- .element: class="fragment"  -->
-NODE!<!-- .element: class="fragment"  -->
+# NODE!<!-- .element: class="fragment"  -->
