@@ -1,12 +1,12 @@
 ## Workshop format
 
-We use self guided tutorials, or <strong>workshoppers</strong>, as lesson modules. You can do them on your own, but we encourage you to work together.<!-- .element: class="fragment"  -->
+<p class="fragment">We use self guided tutorials, or <strong>workshoppers</strong>, as lesson modules. You can do them on your own, but we encourage you to work together.</p>
 
 
 ## Selecting a workshopper
 
-<strong>Core</strong> workshoppers focus on essential skills for working with Node.js. If you&rsquo;re new to JavaScript and Node.js, pick these.<!-- .element: class="fragment"  -->
-<strong>Electives</strong> deal with more advanced topics. Pick one of these if you already have some experience.<!-- .element: class="fragment"  -->
+<p class="fragment"><strong>Core</strong> workshoppers focus on essential skills for working with Node.js. If you&rsquo;re new to JavaScript and Node.js, pick these.</p>
+<p class="fragment"><strong>Electives</strong> deal with more advanced topics. Pick one of these if you already have some experience.</p>
 
 
 ## Core workshoppers
