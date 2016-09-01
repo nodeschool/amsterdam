@@ -15,6 +15,9 @@ Note:
 - back to school
 
 
+<img src="http://i.huffpost.com/gen/2602360/thumbs/o-BREAKFAST-CLUB-570.jpg?1">
+
+
 ### Your ~~teachers~~ mentors
 
 <div class="hosts">
