@@ -1,17 +1,65 @@
-## workshoppers explained
+## Workshop format
+
+We use self guided tutorials, or <strong>workshoppers</strong>, as lesson modules. You can do them on your own, but we encourage you to work together.<!-- .element: class="fragment"  -->
 
 
-### install through npm
-### run from command line
+## Selecting a workshopper
+
+<strong>Core</strong> workshoppers focus on essential skills for working with Node.js. If you&rsquo;re new to JavaScript and Node.js, pick these.<!-- .element: class="fragment"  -->
+<strong>Electives</strong> deal with more advanced topics. Pick one of these if you already have some experience.<!-- .element: class="fragment"  -->
 
 
-## picking a workshopper
+## Core workshoppers
+
+If you want to learn some basic programming skills using JavaScript and Node.js, we recommend you start with one of these workshoppers:
+
+<pre><code>$ npm install -g javascripting
+
+$ npm install -g learnyounode
+
+$ npm install -g how-to-npm
+
+$ npm install -g scope-chains-closures
+
+$ npm install -g git-it
+</code></pre>
 
 
-## core workshoppers in depth
+## Recommended electives
+
+If you want to challenge yourself by selecting an elective, we recommend the following workshoppers
+
+<pre><code>$ npm install -g functional-javascript-workshop
+
+$ npm install -g async-you
+
+$ npm install -g promise-it-wont-hurt
+
+$ npm install -g lololodash
+
+$ npm install -g expressworks
+</code></pre>
+
+For a list of all electives, visit:<br><a href="http://nodeschool.io/#workshopper-list">http://nodeschool.io/#workshopper-list</a>
 
 
-## elective workshoppers in depth
+## 💀 electives
+
+If you want to challenge yourself even more, we challenge you with the following workshoppers
+
+<pre><code>$ npm install -g bacon-love
+
+$ npm install -g esnext-generation
+
+$ npm install -g perfschool
+
+$ npm install -g goingnative
+</code></pre>
 
 
-## good luck!
+
+## Let's team up!
+
+Now find someone to team up with. The mentors will help you out.<!-- .element: class="fragment"  -->
+Got yourself a partner?<!-- .element: class="fragment"  -->
+NODE!<!-- .element: class="fragment"  -->
