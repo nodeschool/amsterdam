@@ -1,6 +1,6 @@
-#### Welcome to NodeSchool Amsterdam #5
+## Welcome to NodeSchool Amsterdam
 <img src="images/nodeschool-logo.png" style="border: 0; box-shadow: none; ">
-#### Back to school!
+#### Workshop #5: Back to school!
 
 
 ### NodeSchool?
@@ -74,12 +74,12 @@ Note:
 - Rick, the strong silent type
 - Stefan, grey haired tattooed
 - JP, grey haired tattooed
-- Carmen, flawlessly shift between angular, neural nets and baking cakes
-- Daniel, other half of the Romanian Rebels
+- Carmen, flawlessly shifts between angular, neural nets and baking cakes
+- Daniel, the other half of the Romanian Rebels
 - Jilles, crushes bugs by sheer force alone
 - Mike, international man of many programming languages
-- Lily, came back from vacation last night, already here
-- Ramon, run dailyjavascript on twitter
+- Lily, came back from vacation last night, already here. DEDICATION!
+- Ramon, hyperactive Pokemon trainer who runs @dailyjavascript on twitter
 - Daijiro, dutch food culture connaissuer and fan of wombats
 
 
@@ -100,7 +100,7 @@ Note:
 <img src="images/GitHub_Logo.png" width="300" class="logo">
 
 Note:
-- GitHub: awesome location
+- GitHub: awesome location, nutritious drinks and swag
 
 
 <img src="images/rendit.png" width="300" class="logo">
@@ -108,4 +108,4 @@ Note:
 www.rendit.nl
 
 Note:
-- Rendit: nutritious school lunch, swag
+- Rendit: nutritious school lunch and swag

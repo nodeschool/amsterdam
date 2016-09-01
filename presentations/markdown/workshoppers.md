@@ -40,8 +40,6 @@ $ npm install -g lololodash
 $ npm install -g expressworks
 </code></pre>
 
-For a list of all electives, visit:<br><a href="http://nodeschool.io/#workshopper-list">http://nodeschool.io/#workshopper-list</a>
-
 
 ## 💀 electives
 
@@ -56,6 +54,7 @@ $ npm install -g perfschool
 $ npm install -g goingnative
 </code></pre>
 
+For a list of all electives, visit:<br><a href="http://nodeschool.io/#workshopper-list">http://nodeschool.io/#workshopper-list</a>
 
 
 ## Let's team up!
