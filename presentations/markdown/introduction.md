@@ -97,7 +97,7 @@ Note:
 ## Our sponsors
 
 
-<img src="images/Github_logo.png" width="300" class="logo">
+<img src="images/Github_Logo.png" width="300" class="logo">
 
 Note:
 - GitHub: awesome location
