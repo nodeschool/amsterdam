@@ -48,3 +48,17 @@ aside,
 		width: 75%;
 	}
 }
+h4 .link {
+	background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%,lighten($linkColour,20%) 50%);
+	background-position: 0 93%;
+	background-repeat: repeat-x;
+	background-size: 100% 0.15rem;
+	text-shadow: 0.1rem 0 $backgroundColour,
+							 0.15rem 0 $backgroundColour,
+							-0.1rem 0 $backgroundColour,
+							-0.15rem 0 $backgroundColour;
+
+	&:hover, &:active, &:focus {
+		background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%,lighten($hoverColour,20%) 50%);
+	}
+}
