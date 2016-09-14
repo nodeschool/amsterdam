@@ -27,27 +27,33 @@ aside,
 		width: 25%;
 		height: 100%;
 	}
-	.logo {
-		max-width: 200px;
-		display: block;
-		margin: auto;
-		@include breakpoint(break-1) {
-			max-width: 90%;
-		}
-		&.we-all-float-down-here {
-			max-width: 150px;
-			position: absolute;
-			margin: -200px auto auto auto;
-			@include breakpoint(break-1) {
-				max-width: 90%;
-			}
-		}
-	}
+
 	.what-we-do {
 		text-align: center;
 		font-weight: bold;
 	}
 }
+
+.logo {
+	max-width: 200px;
+	display: block;
+	margin: auto;
+	@include breakpoint(break-1) {
+		max-width: 90%;
+	}
+	&.we-all-float-down-here {
+		max-width: 118px;
+		/* margin: -100px auto auto auto; */
+		position: absolute;
+		right: 0;
+		top: 50px;
+		@include breakpoint(break-1) {
+			top: inherit;
+			margin-top: -20px;
+		}
+	}
+}
+
 .main {
 	position: relative;
 	width: 100%;
@@ -70,4 +76,3 @@ h4 .link {
 		background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%,lighten($hoverColour,20%) 50%);
 	}
 }
-
