@@ -34,7 +34,7 @@ aside,
 		@include breakpoint(break-1) {
 			max-width: 90%;
 		}
-		.we-all-float-down-here {
+		&.we-all-float-down-here {
 			position: absolute;
 			margin: -200px auto auto auto;
 		}
