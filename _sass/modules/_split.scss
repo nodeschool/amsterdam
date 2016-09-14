@@ -35,8 +35,12 @@ aside,
 			max-width: 90%;
 		}
 		&.we-all-float-down-here {
+			max-width: 150px;
 			position: absolute;
 			margin: -200px auto auto auto;
+			@include breakpoint(break-1) {
+				max-width: 90%;
+			}
 		}
 	}
 	.what-we-do {
