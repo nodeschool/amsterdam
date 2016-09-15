@@ -1,0 +1,89 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>Prep slide deck</title>
+		<meta name="author" content="Stefan Mirck">
+		<meta name="author" content="JP Wesselink">
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/nodeschool.css" id="theme">
+
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section data-transition="slide-in fade-out" data-markdown="markdown/introduction.md"
+	         data-separator="^\n\n\n"
+	         data-separator-vertical="^\n\n"
+	         data-separator-notes="^Note:">
+				</section>
+				<section data-transition="slide-in fade-out" data-markdown="markdown/in-depth.md"
+	         data-separator="^\n\n\n"
+	         data-separator-vertical="^\n\n"
+	         data-separator-notes="^Note:">
+				</section>
+				<section data-transition="slide-in fade-out" data-markdown="markdown/workshoppers.md"
+	         data-separator="^\n\n\n"
+	         data-separator-vertical="^\n\n"
+	         data-separator-notes="^Note:">
+				</section>
+				<section data-transition="slide-in fade-out" data-markdown="markdown/team-up.md"
+	         data-separator="^\n\n\n"
+	         data-separator-vertical="^\n\n"
+	         data-separator-notes="^Note:">
+				</section>
+			</div>
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: false,
+				progress: false,
+				history: false,
+				center: true,
+				hideAddressBar: true,
+				transition: 'slide', // none/fade/slide/convex/concave/zoom
+				parallaxBackgroundImage: 'images/test-bg.png',
+				parallaxBackgroundSize: '450px',
+				parallaxBackgroundHorizontal: 200,
+				parallaxBackgroundVertical: 200,
+				keyboard: {
+					32: function() {
+						Reveal.configure({
+							controls: !Reveal.getConfig().controls
+						});
+					}
+				},
+
+				// Optional reveal.js plugins
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector('[data-markdown]'); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector('[data-markdown]'); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true },
+					{ src: 'plugin/notes/notes.js', async: true }
+				]
+			});
+		</script>
+	</body>
+</html>
