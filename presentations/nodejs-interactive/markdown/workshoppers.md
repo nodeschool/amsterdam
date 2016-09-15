@@ -1,60 +1,56 @@
 ## Workshop format
 
-<p class="fragment">We use self guided tutorials, or <strong>workshoppers</strong>, as lesson modules. You can do them on your own, but we encourage you to work together.</p>
+<p class="fragment">We use self-guided tutorials, or <strong>workshoppers</strong>, as lesson modules. You can do them on your own, but we encourage you to work together.</p>
 
-## Today's special
+Note:
+- `no text` How do we organize our workshops?
+- `text` We use an open source curriculum based on workshoppers, or self-guided lesson modules
+- You can do them on your own (you don't actually need to attend a workshop to do one) and most work offline.
 
-- 
 
 ## Selecting a workshopper
 
-<p class="fragment"><strong>Core</strong> workshoppers focus on essential skills for working with Node.js. If you&rsquo;re new to JavaScript and Node.js, pick these.</p>
-<p class="fragment"><strong>Electives</strong> deal with more advanced topics. Pick one of these if you already have some experience.</p>
+<p class="fragment"><strong>Core</strong> workshoppers are focussed on essential skills for working with Node.js.</p>
+<p class="fragment"><strong>Electives</strong> deal with more advanced topics and are more challenging to do.</p>
+<p class="fragment"><a href="http://nodeschool.io/#workshoppers">http://nodeschool.io/#workshoppers</a></p>
+
+Note:
+- 2 types/categories of workshoppers
+- We recommend *Core* to people new to JavaScript and Node.js
+- We recommend *Electives* to people that are more experienced and up for a challenge.
+- For most of the topics at Node Interactive a workshopper is available. If you're interested in the complete list, visit the website.
 
 
-## Core workshoppers
+## How to get started
 
-If you want to learn some basic programming skills using JavaScript and Node.js, we recommend you start with one of these workshoppers:
+<pre><code>$ npm install -g learnyounode
 
-<pre><code>$ npm install -g javascripting
+$ learnyounode
 
-$ npm install -g learnyounode
+$ learnyounode run program.js
 
-$ npm install -g how-to-npm
+$ learnyounode verify program.js
 
-$ npm install -g scope-chains-closures
-
-$ npm install -g git-it
+$ learnyounode print
 </code></pre>
 
-
-## Recommended electives
-
-If you want to challenge yourself by selecting an elective, we recommend the following workshoppers:
-
-<pre><code>$ npm install -g functional-javascript-workshop
-
-$ npm install -g async-you
-
-$ npm install -g promise-it-wont-hurt
-
-$ npm install -g lololodash
-
-$ npm install -g expressworks
-</code></pre>
+Note:
+- You will need to use a console
+- Use `node` and `npm` to install a module and run it.
+- Basic commands:
+  - Installing a workshopper
+  - Displaying the menu
+  - Test drive your code
+  - Verify your code
+  - Display the exercise again
+- We recommend node v6.0.2 and higher
 
 
-## 💀 electives
+## This morning&rsquo;s specials
 
-If you want to challenge yourself even more, we challenge you with the following workshoppers:
+<p class="fragment">`stream-adventures`: learn to compose streaming interfaces with `.pipe()`.</p>
+<p class="fragment">`bacon-love`: learn concepts of functional and reactive programming using Bacon.js.</p>
 
-<pre><code>$ npm install -g bacon-love
-
-$ npm install -g esnext-generation
-
-$ npm install -g perfschool
-
-$ npm install -g goingnative
-</code></pre>
-
-For a list of all electives, visit:<br><a href="http://nodeschool.io/#workshopper-list">http://nodeschool.io/#workshopper-list</a>
+Note:
+- Stream advantures is easy/intermediate
+- bacon-love is advanced
