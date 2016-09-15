@@ -26,8 +26,8 @@ https://github.com/nodeschool
 
 Note:
 - the organisation is loosely organized on github
-- 2 goals:
-	- to create high quality open source programming curriculum (that teaches various Node.js and JavaScript skills in an interactive, self-guided format)
+- 2 primary goals:
+	- to create and improve high quality open source programming curriculum (that teaches various Node.js and JavaScript skills in an interactive, self-guided format)
 	- to host community learning events
 
 
@@ -40,24 +40,20 @@ Note:
 
 <!-- - was "founded" or rather came to exist by Substack, Max Ogden, Rod Vagg and others. -->
 - Chapter: based on geolocation: one chapter per city
-- 170 chapters on 6 continents
+- as we speak 170 chapters on 6 continents
 - 570+ events and growing
 - (and still growing and reinventing ourselves)
-- if you like to learn more about nodeschool you can checkout our website which can be found at nodeschool.io
 
+
+### NodeSchool world wide
 
 <img src="images/current-events.png">
 
-http://www.nodeschool.io
-
 Note:
 
-<!-- - was "founded" or rather came to exist by Substack, Max Ogden, Rod Vagg and others. -->
-- Chapter: based on geolocation: one chapter per city
-- 170 chapters on 6 continents
-- 570+ events and growing
-- (and still growing and reinventing ourselves)
-- if you like to learn more about nodeschool you can checkout our website which can be found at nodeschool.io
+- how this looks like on a map is pretty awesome
+- and wouldn't be possible without all hard working volunteers who do an amazing job making this happen
+- which brings me to the volunteers of today
 
 
 ### Your mentors
@@ -126,15 +122,14 @@ Note:
 </div>
 
 Note:
-- Rick, the strong silent type
-- Stefan, grey haired tattooed
-- JP, grey haired tattooed
-- Carmen, flawlessly shifts between angular, neural nets and baking cakes
-- Daniel, the other half of the Romanian Rebels
-- Jilles, crushes bugs by sheer force alone
-- Mike, international man of many programming languages
-- Lily, came back from vacation last night, already here. DEDICATION!
-- Daijiro, dutch food culture connaisseur and fan of wombats
+- The accessibility whisperer, Rick
+- grey haired tattooed,  Stefan
+- dutch street food enthousiast and fan of wombats, Jiro
+- All the way from Italy, Matteo
+- Titus, who actually teaches this stuff at a college
+- Romanian Rebel, Daniel
+- chief op operations, Lily
+- and yours truly
 
 
 ## code of conduct
@@ -142,3 +137,10 @@ Note:
 http://nodeschool.io/amsterdam/code-of-conduct
 
 <img src="images/excellent.jpg"><!-- .element: class="fragment"  -->
+
+Note:
+- to provide all attendees a safe environment
+- some say the short version is: don't be an asshole
+- but what we like better is:
+- be nice, friendly and open to eachother
+- this way we can create an even better Node.js community
