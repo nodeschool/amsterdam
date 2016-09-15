@@ -1,7 +1,7 @@
 ### Welcome to NodeSchool Amsterdam
 <img src="images/nodeschool-logo.png" style="border: 0; box-shadow: none; ">
 
-#### Node.js Interactive Europe
+### Node.js Interactive Europe
 
 
 <div class="hosts hosts-primary">
@@ -18,7 +18,7 @@ Note:
 - happy to host NodeSchool here today for you
 
 
-### NodeSchool?
+## NodeSchool?
 
 NodeSchool is an international community-driven effort that teaches essential (web) software skills.
 
@@ -31,37 +31,33 @@ Note:
 	- to host community learning events
 
 
-## NodeSchool
+### Learning events happen in Chapters.
 
-Learning events happen in Chapters.
-
-<img src="images/events.png"><!-- .element: class="fragment"  -->
-
-### 170 chapters<!-- .element: class="fragment"  -->
-### 570+ events<!-- .element: class="fragment"  -->
-
-http://www.nodeschool.io
-
-More info: <a href="https://twitter.com/llkats">@llkats</a>
+## 170 chapters<!-- .element: class="fragment"  -->
+## 571+ events<!-- .element: class="fragment"  -->
 
 Note:
 
-- was "founded" or rather came to exist by Substack, Max Ogden, Rod Vagg and others.
-- Chapter: place where NodeSchool events happen
-- Chapter: based on geolocation
-- One chapter per city
+<!-- - was "founded" or rather came to exist by Substack, Max Ogden, Rod Vagg and others. -->
+- Chapter: based on geolocation: one chapter per city
 - 170 chapters on 6 continents
-- 570+ events since it started
+- 570+ events and growing
 - (and still growing and reinventing ourselves)
 - if you like to learn more about nodeschool you can checkout our website which can be found at nodeschool.io
 
 
-## History of NodeSchool Amsterdam
+<img src="images/current-events.png">
 
-NodeSchool Amsterdam started in 2014, in 2015 the organizers of Haarlem took over.
+http://www.nodeschool.io
 
 Note:
-- 5 in Amsterdam, 21 Haarlem (just behind Tokyo and Berlin that have 22).
+
+<!-- - was "founded" or rather came to exist by Substack, Max Ogden, Rod Vagg and others. -->
+- Chapter: based on geolocation: one chapter per city
+- 170 chapters on 6 continents
+- 570+ events and growing
+- (and still growing and reinventing ourselves)
+- if you like to learn more about nodeschool you can checkout our website which can be found at nodeschool.io
 
 
 ### Your mentors
