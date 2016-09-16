@@ -48,9 +48,10 @@ Note:
 
 ## This morning&rsquo;s specials
 
-<p class="fragment">`stream-adventures`: learn to compose streaming interfaces with `.pipe()`.</p>
-<p class="fragment">`bacon-love`: learn concepts of functional and reactive programming using Bacon.js.</p>
+<p class="fragment">`planetproto`: all about JavaScript prototypes.</p>
+<p class="fragment">`goingnative`: exploring native C++ add-ons.</p>
 
 Note:
-- Stream advantures is easy/intermediate
-- bacon-love is advanced
+- planetproto is intermediate
+- goingnative is advanced
+- If you're on Node 5/6, `nan` will produce deprecation warnings, update `nan` to latest
