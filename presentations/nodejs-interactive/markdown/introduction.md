@@ -15,7 +15,7 @@
 </div>
 
 Note:
-- happy to host NodeSchool here today for you
+- really happy to be doing nodeschool sessions here today
 
 
 ## NodeSchool?
@@ -41,8 +41,7 @@ Note:
 <!-- - was "founded" or rather came to exist by Substack, Max Ogden, Rod Vagg and others. -->
 - Chapter: based on geolocation: one chapter per city
 - as we speak 170 chapters on 6 continents
-- 570+ events and growing
-- (and still growing and reinventing ourselves)
+- 571+ events and growing
 
 
 ### NodeSchool world wide
@@ -53,7 +52,7 @@ Note:
 
 - how this looks like on a map is pretty awesome
 - and wouldn't be possible without all hard working volunteers who do an amazing job making this happen
-- which brings me to the volunteers of today
+- which brings me to the mentors of this morning
 
 
 ### Your mentors
@@ -128,7 +127,7 @@ Note:
 - All the way from Italy, Matteo
 - Titus, who actually teaches this stuff at a college
 - Romanian Rebel, Daniel
-- chief op operations, Lily
+- one of the kindest persons I know, Lily
 - and yours truly
 
 
@@ -141,6 +140,8 @@ http://nodeschool.io/amsterdam/code-of-conduct
 Note:
 - to provide all attendees a safe environment
 - some say the short version is: don't be an asshole
-- but what we like better is:
-- be nice, friendly and open to eachother
+- wouldn't do much justice to what we're trying to achieve
+- educational, social, fun and safe environment
+- so what we like better is:
+- try to be nice, friendly and open to eachother
 - this way we can create an even better Node.js community
