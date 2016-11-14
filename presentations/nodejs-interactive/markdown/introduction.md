@@ -88,11 +88,11 @@ Note:
 		<span>Jiro</span>
 		<i class="twitter">@watilde</i>
 	</a>
-	<a class="host">
+	<!-- <a class="host">
 		<img src="https://avatars1.githubusercontent.com/u/52195?v=3&s=400">
 		<span>Matteo</span>
 		<i class="twitter">@mcollina</i>
-	</a>
+	</a> -->
 	<a class="host">
 		<img src="https://avatars1.githubusercontent.com/u/944406?v=3&s=400">
 		<span>Titus</span>
@@ -109,6 +109,11 @@ Note:
 		<i class="twitter">@LilyStamenova</i>
 	</a>
 	<a class="host">
+		<img src="https://pbs.twimg.com/profile_images/1239168673/profileIcon_400x400.jpg">
+		<span>Luca</span>
+		<i class="twitter">@lucamaraschi</i>
+	</a>
+	<a class="host">
 		<img src="https://pbs.twimg.com/profile_images/774375648211169281/4eLwzJzE_400x400.jpg">
 		<span>JP</span>
 		<i class="twitter">@jp10k</i>
@@ -122,12 +127,12 @@ Note:
 
 Note:
 - The accessibility whisperer, Rick
-- grey haired tattooed,  Stefan
+- that other grey haired and tattooed dude, Stefan
 - dutch street food enthousiast and fan of wombats, Jiro
-- All the way from Italy, Matteo
 - Titus, who actually teaches this stuff at a college
 - Romanian Rebel, Daniel
 - one of the kindest persons I know, Lily
+- Luca...
 - and yours truly
 
 
