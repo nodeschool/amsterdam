@@ -18,7 +18,7 @@ Note:
 <img src="http://i.huffpost.com/gen/2602360/thumbs/o-BREAKFAST-CLUB-570.jpg?1">
 
 
-### Your ~~teachers~~ mentors
+### Your mentors
 
 <div class="hosts">
 	<a class="host">
@@ -75,15 +75,15 @@ Note:
 
 Note:
 - Rick, the strong silent type
-- Stefan, grey haired tattooed
-- JP, grey haired tattooed
-- Carmen, flawlessly shifts between angular, neural nets and baking cakes
-- Daniel, the other half of the Romanian Rebels
-- Jilles, crushes bugs by sheer force alone
+- Stefan, yours truly
+- JP, nodeschool core contributor and serial meetup organizer
 - Mike, international man of many programming languages
-- Lily, came back from vacation last night, already here. DEDICATION!
+- Lily, chief of operations
+- Eleonora, all about metal and code
 - Ramon, hyperactive Pokemon trainer who runs @dailyjavascript on twitter
-- Daijiro, dutch food culture connaissuer and fan of wombats
+- Titus, only qualified teacher we have
+- Daniel, next to developer he is also a banker
+- Joost, we know nothing about him, but we will find out tonight :D
 
 
 ## code of conduct
@@ -97,7 +97,7 @@ Note:
 - no more than 1 student at a time in bathroom
 
 
-## Our sponsors
+## Our sponsor
 
 
 <img src="images/info.nl.png" width="600" class="logo">
