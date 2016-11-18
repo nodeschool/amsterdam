@@ -15,7 +15,8 @@ Note:
 - back to school
 
 
-<img src="http://i.huffpost.com/gen/2602360/thumbs/o-BREAKFAST-CLUB-570.jpg?1">
+<img src="images/stefan.jpg" style="width: 400px; border: 0; box-shadow: none; ">
+## mobro.co/stefanmirck
 
 
 ### Your mentors
