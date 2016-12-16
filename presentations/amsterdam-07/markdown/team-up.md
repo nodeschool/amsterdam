@@ -7,7 +7,7 @@ Pick any workshopper you&rsquo;re interested in. We encourage you to collaborate
 
 <h3>3&hellip;<span class="fragment">, 2&hellip;</span><span class="fragment"> , 1&hellip;</span></h3>
 
-# NODE!<!-- .element: class="fragment"  -->
+# LET&rsquo;S CODE WITH NODE!<!-- .element: class="fragment"  -->
 
 Note:
 - You can perfectly do a workshopper on your own, but you can optionally team up with someone else. We actually recommend it, as it's more fun and you'll learn a lot more. Don't feel like it? That's cool too!
