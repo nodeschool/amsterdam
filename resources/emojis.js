@@ -5,6 +5,7 @@
   "labels": "slack",
   "source": "Slack",
   "license": "?",
+  "source_url": "http://slack.com",
   "size": "84x84",
   "name": "slack"
 }]
