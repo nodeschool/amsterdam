@@ -14,7 +14,7 @@ Note:
 
 # HOLD UP!
 
-<img class="plain fragment" src="images/beerjs.svg" style>
+<img class="plain fragment" src="https://raw.githubusercontent.com/beerjs/meta/master/assets/beerjs.png" style>
 
 
 ###Ready?<!-- .element: class="fragment"  -->
