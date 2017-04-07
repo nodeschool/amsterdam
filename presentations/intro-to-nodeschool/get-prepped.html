@@ -1,23 +1,18 @@
 <!doctype html>
-<html lang="en">
-
+<html>
 	<head>
 		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
 		<title>Prep slide deck</title>
-
-		<meta name="description" content="Prep slide deck">
 		<meta name="author" content="Stefan Mirck">
-
-		<meta name="apple-mobile-web-app-capable" content="yes">
-		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+		<meta name="author" content="JP Wesselink">
 
 		<link rel="stylesheet" href="css/reveal.css">
 		<link rel="stylesheet" href="css/theme/nodeschool.css" id="theme">
 
-		<!-- Code syntax highlighting -->
+
+		<!-- Theme used for syntax highlighting of code -->
 		<link rel="stylesheet" href="lib/css/zenburn.css">
 
 		<!-- Printing and PDF exports -->
@@ -28,20 +23,14 @@
 			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
 			document.getElementsByTagName( 'head' )[0].appendChild( link );
 		</script>
-
-		<!--[if lt IE 9]>
-		<script src="lib/js/html5shiv.js"></script>
-		<![endif]-->
 	</head>
-
 	<body>
-
 		<div class="reveal">
 
 			<!-- Any section element inside of this container is displayed as a slide -->
 			<div class="slides">
 				<section data-transition="slide-in fade-out">
-					<img class="plain" src="nodeschool-amsterdam.png">
+					<img class="plain" src="images/nodeschool-logo.png">
 					<h3>Welcome to NodeSchool Amsterdam</h3>
 				</section>
 
@@ -62,13 +51,69 @@
 								<td>Hack time</td>
 							</tr>
 							<tr>
-								<td>21:30</td>
+								<td>21:00</td>
 								<td>Closing</td>
 							</tr>
 						</tbody>
 					</table>
 				</section>
+				<section data-transition="slide-in fade-out" data-autoslide="6000">
+					<h3>Tonight's mentors</h3>
 
+					<div class="hosts">
+						<a class="host">
+							<img src="images/rick.jpeg">
+							<span>Rick</span>
+							<i class="twitter">@rickheere</i>
+						</a>
+						<a class="host">
+							<img src="images/stefan.png">
+							<span>Stefan</span>
+							<i class="twitter">@stefanmirck</i>
+						</a>
+						<a class="host">
+							<img src="images/jp.jpeg">
+							<span>JP</span>
+							<i class="twitter">@jp10k</i>
+						</a>
+						<a class="host">
+							<img src="images/carmen.jpg">
+							<span>Carmen</span>
+							<i class="twitter">@CarmenPopoviciu</i>
+						</a>
+						<a class="host">
+							<img src="images/jilles.jpg">
+							<span>Jilles</span>
+							<i class="twitter">@jilles</i>
+						</a>
+						<a class="host">
+							<img src="images/mike.jpeg">
+							<span>Mike</span>
+							<i class="twitter">@mikewoudenberg</i>
+						</a>
+						<a class="host">
+							<img src="images/lily.jpeg">
+							<span>Lily</span>
+							<i class="twitter">@LilyStamenova</i>
+						</a>
+						<a class="host">
+							<img src="images/ramon.jpeg">
+							<span>Ramon</span>
+							<i class="twitter">@DailyJavascript</i>
+						</a>
+						<a class="host">
+							<img src="images/watilde.jpeg">
+							<span>Jiro</span>
+							<i class="twitter">@watilde</i>
+						</a>
+						<a class="host">
+							<img src="images/daniel-leu.jpeg">
+							<span>Daniel</span>
+							<i class="twitter">@leudanielm</i>
+						</a>
+					</div>
+
+				</section>
 				<section>
 					<section data-transition="slide-in fade-out" data-autoslide="2000">
 						<h2>Before we get started&hellip;</h2>
@@ -94,11 +139,11 @@
 						<h2>Check if it all works</h2>
 						<p>To check if everything works, open a console and type:</p>
 						<pre><code class="hljs"> $ node -v
- v6.10.2
+ v6.5.0
  $ npm -v
- v3.10.10
+ v3.10.3
  $ git --version
- git version 2.12.2</code></pre>
+ git version 2.7.4</code></pre>
 						<p class="fragment" data-autoslide="6000">If you&rsquo;re having problems, ask one of the mentors to take a look and help sort it out</p>
 					</section>
 
@@ -126,32 +171,44 @@
 					<h3>You&rsquo;re ready for NodeSchool to begin!</h3>
 					<p><span class="fragment" data-autoslide="4000">But in the mean time&hellip;</span> <span class="fragment" data-autoslide="6000">pop over to <a href="https://gitter.im/nodeschool/amsterdam">https://gitter.im/nodeschool/amsterdam</a> to join our Gitter channel</span></p>
 				</section>
+				<section data-transition="slide-in fade-out" data-autoslide="3000">
+					<h3>This nodeschool is made possible by</h3>
+					<img src="images/GitHub_Logo.png" width="300" class="logo">
+					<img src="images/rendit.png" width="300" class="logo">
 
+				</section>
+				<section data-transition="slide-in fade-out" data-autoslide="3000">
+					<p><strong>Beurs van Berlage</strong>, Wednesday Sept 14th, <strong>17:00 -> 22:00</strong></p>
+					<p>
+						<img src="images/node-together-logo.png" width="60%" class="logo">
+					</p>
+	<p>You'll learn to:</p>
+	<p>Navigate the Command Line, Version Control with Git, Write Web Apps with Node.js, Use and Manage Packages with npm.</p>
+
+					<a href="https://www.nodetogether.org">Sign up for free at www.nodetogether.org</a>
+					<p><small>brought to you by</small> <img src="images/npm-logo.svg" alt="" width="100px" class="logo"></p>
+				</section>
 			</div>
-
 		</div>
 
 		<script src="lib/js/head.min.js"></script>
 		<script src="js/reveal.js"></script>
 
 		<script>
-
-			// Full list of configuration options available at:
-			// https://github.com/hakimel/reveal.js#configuration
+			// More info https://github.com/hakimel/reveal.js#configuration
 			Reveal.initialize({
+				loop: true,
 				controls: false,
 				progress: false,
 				history: false,
 				center: true,
-				loop: true,
 				hideAddressBar: true,
 				transition: 'slide', // none/fade/slide/convex/concave/zoom
-				autoSlide: 8000,
-				// autoSlideStoppable: false,
-				parallaxBackgroundImage: 'test-bg.png',
+				parallaxBackgroundImage: 'images/test-bg.png',
 				parallaxBackgroundSize: '450px',
 				parallaxBackgroundHorizontal: 200,
-    		parallaxBackgroundVertical: 200,
+				parallaxBackgroundVertical: 200,
+				autoSlide: 8000,
 				keyboard: {
 					32: 'toggleAutoSlide'
 				},
@@ -159,15 +216,13 @@
 				// Optional reveal.js plugins
 				dependencies: [
 					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
-					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector('[data-markdown]'); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector('[data-markdown]'); } },
 					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
 					{ src: 'plugin/zoom-js/zoom.js', async: true },
 					{ src: 'plugin/notes/notes.js', async: true }
 				]
 			});
-
 		</script>
-
 	</body>
 </html>
