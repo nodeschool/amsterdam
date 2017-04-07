@@ -12,9 +12,9 @@ Note:
 <h3>3&hellip;<span class="fragment">, 2&hellip;</span>
 
 
-# HOLD UP!<!-- .element: class="fragment"  -->
+# HOLD UP!
 
-<img class="host fragment" src="https://github.com/beerjs/meta/blob/master/assets/beerjs.svg">
+<img class="plain fragment" src="https://raw.githubusercontent.com/beerjs/meta/master/assets/beerjs.svg" style>
 
 
 ###Ready?<!-- .element: class="fragment"  -->
