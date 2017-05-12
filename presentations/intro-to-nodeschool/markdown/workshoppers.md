@@ -62,7 +62,7 @@ $ npm install -g perfschool
 $ npm install -g goingnative
 
 $ git clone https://github.com/thlorenz/learnuv.git && \
-cd learnuv && npm install
+\> cd learnuv && npm install
 </code></pre>
 
 For a list of all electives, visit:<br><a href="http://nodeschool.io/#workshopper-list">http://nodeschool.io/#workshopper-list</a>
