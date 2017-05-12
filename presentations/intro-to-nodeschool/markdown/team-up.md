@@ -9,17 +9,6 @@ Note:
 ###Ready?<!-- .element: class="fragment"  -->
 
 
-<h3>3&hellip;<span class="fragment">, 2&hellip;</span>
-
-
-# HOLD UP!
-
-<img class="plain fragment" src="https://raw.githubusercontent.com/beerjs/meta/master/assets/beerjs.png" style>
-
-
-###Ready?<!-- .element: class="fragment"  -->
-
-
 <h3>3&hellip;<span class="fragment">, 2&hellip;</span><span class="fragment"> , 1&hellip;</span></h3>
 
 # LET&rsquo;S CODE WITH NODE!<!-- .element: class="fragment"  -->
