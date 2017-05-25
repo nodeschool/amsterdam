@@ -1,6 +1,6 @@
 ### Welcome to NodeSchool Amsterdam
 <img src="images/nodeschool-logo.png" style="border: 0; box-shadow: none; ">
-#### Workshop #11
+#### Workshop #12
 
 
 ### NodeSchool?
@@ -20,16 +20,21 @@ Note:
 
 <div class="hosts">
 	<a class="host">
-		<img src="https://avatars1.githubusercontent.com/u/803178?v=3&s=400">
-		<span>Rick</span>
-		<i class="twitter">@rickheere</i>
-	</a>
-	<a class="host">
 		<img src="https://avatars2.githubusercontent.com/u/9959680">
 		<span>Stephanie</span>
 		<i class="twitter">@stephaniecodes</i>
 	</a>
 	<a class="host">
+		<img src="https://avatars0.githubusercontent.com/u/1814479?v=3&s=400">
+		<span>JP</span>
+		<i class="twitter">@jp10k</i>
+	</a>
+	<a class="host">
+		<img src="https://avatars1.githubusercontent.com/u/803178?v=3&s=400">
+		<span>Rick</span>
+		<i class="twitter">@rickheere</i>
+	</a>
+	<!-- <a class="host">
 		<img src="https://avatars2.githubusercontent.com/u/1559703?v=3&s=460">
 		<span>Aurelia</span>
 		<i class="twitter">@auremoser</i>
@@ -38,7 +43,7 @@ Note:
 		<img src="https://avatars3.githubusercontent.com/u/3622055?v=3&s=460">
 		<span>Joey</span>
 		<i class="twitter">@leejoeyk</i>
-	</a>
+	</a> -->
 	<a class="host">
 		<img src="https://avatars2.githubusercontent.com/u/2011351?v=3&s=460">
 		<span>Alex</span>
@@ -78,11 +83,6 @@ Note:
 		<img src="https://avatars2.githubusercontent.com/u/1877200?v=3&s=400">
 		<span>Sannie</span>
 		<i class="twitter">@sanniekwakman</i>
-	</a> -->
-	<!-- <a class="host">
-		<img src="https://avatars0.githubusercontent.com/u/1814479?v=3&s=400">
-		<span>JP</span>
-		<i class="twitter">@jp10k</i>
 	</a> -->
 	<a class="host">
 		<img src="https://avatars2.githubusercontent.com/u/3287987?v=3&s=400">
