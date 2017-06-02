@@ -29,7 +29,7 @@ $ npm install -g learnyounode
 
 $ npm install -g how-to-npm
 
-$ npm install -g how-to-markdown
+$ npm install -g scope-chains-closures
 
 $ npm install -g git-it
 </code></pre>
@@ -39,9 +39,9 @@ $ npm install -g git-it
 
 If you want to challenge yourself by selecting an elective, we recommend the following workshoppers:
 
-<pre><code>$ npm install -g count-to-6
+<pre><code>$ npm install -g planetproto
 
-$ npm install -g async-you
+$ npm install -g count-to-6
 
 $ npm install -g promise-it-wont-hurt
 
@@ -55,14 +55,27 @@ $ npm install -g expressworks
 
 If you want to challenge yourself even more, we challenge you with the following workshoppers:
 
-<pre><code>$ npm install -g bacon-love
+<pre><code>$ npm install -g learn-generators
 
-$ npm install -g perfschool
+$ npm install -g esnext-generation
 
-$ npm install -g goingnative
+$ npm install -g bacon-love
 
-$ git clone https://github.com/thlorenz/learnuv.git && \
-\> cd learnuv && npm install
-</code></pre>
+$ npm install -g goingnative</code></pre>
 
 For a list of all electives, visit:<br><a href="http://nodeschool.io/#workshopper-list">http://nodeschool.io/#workshopper-list</a>
+
+
+## How to get started
+
+The basic workflow of a workshopper will look like this:
+
+<pre><code>$ npm install -g learnyounode
+
+$ learnyounode
+
+$ learnyounode run <program>.js
+
+$ learnyounode verify <program>.js
+
+$ learnyounode print</code></pre>

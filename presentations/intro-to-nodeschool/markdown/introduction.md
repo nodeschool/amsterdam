@@ -6,11 +6,11 @@
 ### NodeSchool?
 
 <p class="fragment">NodeSchool is an international <strong>community-driven effort</strong> that teaches <strong>essential software skills</strong>&hellip;</p>
-<p class="fragment">with <strong>~180 chapters</strong> world-wide that have organized <strong>685 events</strong> (and counting).</p>
+<p class="fragment">with <strong>~180 chapters</strong> world-wide that have organized <strong>~700 events</strong> (and counting).</p>
 <p class="fragment">For more information, visit:<br><a href="http://nodeschool.io/">http://nodeschool.io/</a></p>
 
 Note:
-- open source project organized on GitHub and run by volunteers
+- loosely organized open source project on GitHub and run by volunteers
 - main goals: develop high quality curriculum, organize in-person events
 - focus on javascript and nodejs
 - NodeSchool Haarlem, Schiphol, Utrecht and Rotterdam
@@ -23,11 +23,6 @@ Note:
 		<img src="https://avatars2.githubusercontent.com/u/9959680">
 		<span>Stephanie</span>
 		<i class="twitter">@stephaniecodes</i>
-	</a>
-	<a class="host">
-		<img src="https://avatars0.githubusercontent.com/u/1814479?v=3&s=400">
-		<span>JP</span>
-		<i class="twitter">@jp10k</i>
 	</a>
 	<a class="host">
 		<img src="https://avatars1.githubusercontent.com/u/803178?v=3&s=400">
@@ -84,6 +79,11 @@ Note:
 		<span>Sannie</span>
 		<i class="twitter">@sanniekwakman</i>
 	</a> -->
+	<a class="host">
+		<img src="https://avatars0.githubusercontent.com/u/1814479?v=3&s=400">
+		<span>JP</span>
+		<i class="twitter">@jp10k</i>
+	</a>
 	<a class="host">
 		<img src="https://avatars2.githubusercontent.com/u/3287987?v=3&s=400">
 		<span>Stefan</span>
