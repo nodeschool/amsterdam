@@ -8,7 +8,7 @@ Note:
 
 ###Ready?<!-- .element: class="fragment"  -->
 
-<h3>3&hellip;<span class="fragment">, 2&hellip;</span><span class="fragment"> , 1&hellip;</span></h3>
+<h3 class="fragment">3&hellip;<span class="fragment">, 2&hellip;</span><span class="fragment"> , 1&hellip;</span></h3>
 
 
 ## HOLD UP! HOLD UP!
