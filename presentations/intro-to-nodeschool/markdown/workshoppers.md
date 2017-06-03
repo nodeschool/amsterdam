@@ -74,8 +74,8 @@ The basic workflow of a workshopper will look like this:
 
 $ learnyounode
 
-$ learnyounode run <program>.js
+$ learnyounode run program.js
 
-$ learnyounode verify <program>.js
+$ learnyounode verify program.js
 
 $ learnyounode print</code></pre>
