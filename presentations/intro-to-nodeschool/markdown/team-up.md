@@ -11,8 +11,4 @@ Note:
 <h3 class="fragment">3&hellip;<span class="fragment">, 2&hellip;</span><span class="fragment"> , 1&hellip;</span></h3>
 
 
-## HOLD UP! HOLD UP!
-
-<img class="plain fragment" src="images/beerjs.svg">
-
 # GO CODE WITH NODE!<!-- .element: class="fragment"  -->

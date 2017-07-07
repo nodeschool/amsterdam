@@ -1,6 +1,6 @@
 ### Welcome to NodeSchool Amsterdam
 <img src="images/nodeschool-logo.png" style="border: 0; box-shadow: none; ">
-#### Workshop #12
+#### Workshop #13
 
 
 ### NodeSchool?
@@ -19,11 +19,11 @@ Note:
 ### Your mentors
 
 <div class="hosts">
-	<a class="host">
+	<!-- <a class="host">
 		<img src="https://avatars2.githubusercontent.com/u/9959680">
 		<span>Stephanie</span>
 		<i class="twitter">@stephaniecodes</i>
-	</a>
+	</a> -->
 	<a class="host">
 		<img src="https://avatars1.githubusercontent.com/u/803178?v=3&s=400">
 		<span>Rick</span>
@@ -39,11 +39,11 @@ Note:
 		<span>Joey</span>
 		<i class="twitter">@leejoeyk</i>
 	</a> -->
-	<a class="host">
+	<!-- <a class="host">
 		<img src="https://avatars2.githubusercontent.com/u/2011351?v=3&s=460">
 		<span>Alex</span>
 		<i class="twitter">@alextes</i>
-	</a>
+	</a> -->
 	<!-- <a class="host">
 		<img src="https://avatars1.githubusercontent.com/u/13063149?v=3&s=460">
 		<span>Lily</span>
@@ -59,26 +59,26 @@ Note:
 		<span>Eleonora</span>
 		<i class="twitter">@EleonoraSmid</i>
 	</a> -->
-	<a class="host">
+	<!-- <a class="host">
 		<img src="images/jon.png">
 		<span>Jon</span>
 		<i class="twitter">@jonkoops</i>
-	</a>
+	</a> -->
 	<!-- <a class="host">
 		<img src="images/daniel-leu.jpeg">
 		<span>Daniel</span>
 		<i class="twitter">@leudanielm</i>
 	</a> -->
-	<!-- <a class="host">
+	<a class="host">
 		<img src="https://avatars2.githubusercontent.com/u/1716463?v=3&s=460">
 		<span>Daijirō</span>
 		<i class="twitter">@watilde</i>
-	</a> -->
-	<!-- <a class="host">
+	</a>
+	<a class="host">
 		<img src="images/unicorn-zombie-slayer.jpg">
 		<span>Ramon</span>
 		<i class="twitter">@dailyjavascript</i>
-	</a> -->
+	</a>
 	<!-- <a class="host">
 		<img src="https://avatars2.githubusercontent.com/u/1877200?v=3&s=400">
 		<span>Sannie</span>
