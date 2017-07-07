@@ -6,7 +6,7 @@
 ### NodeSchool?
 
 <p class="fragment">NodeSchool is an international <strong>community-driven effort</strong> that teaches <strong>essential software skills</strong>&hellip;</p>
-<p class="fragment">with <strong>~180 chapters</strong> world-wide that have organized <strong>~700 events</strong> (and counting).</p>
+<p class="fragment">with <strong>~180 chapters</strong> world-wide that have organized <strong>700+ events</strong> (and counting).</p>
 <p class="fragment">For more information, visit:<br><a href="http://nodeschool.io/">http://nodeschool.io/</a></p>
 
 Note:
@@ -77,7 +77,7 @@ Note:
 	<a class="host">
 		<img src="images/unicorn-zombie-slayer.jpg">
 		<span>Ramon</span>
-		<i class="twitter">@dailyjavascript</i>
+		<i class="twitter">@ramongebben</i>
 	</a>
 	<!-- <a class="host">
 		<img src="https://avatars2.githubusercontent.com/u/1877200?v=3&s=400">
