@@ -2,6 +2,9 @@
 
 With Node.js you can use the very popular programming language JavaScript to write software. JavaScript is usually used in a browser, but combined with other tools, Node.js allows you to write server applications, mobile applications or even desktop applications.<!-- .element: class="fragment"  -->
 
+Note:
+- Node.js is an open-source, cross-platform JavaScript run-time environment for executing JavaScript code server-side.
+
 
 ## Workshop format
 
