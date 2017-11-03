@@ -44,11 +44,11 @@ Note:
 		<span>Jon</span>
 		<i class="twitter">@jonkoops</i>
 	</a> -->
-	<a class="host">
+	<!-- <a class="host">
 		<img src="images/daniel-leu.jpeg">
 		<span>Daniel</span>
 		<i class="twitter">@leudanielm</i>
-	</a>
+	</a> -->
 	<a class="host">
 		<img src="https://avatars2.githubusercontent.com/u/1716463?v=3&s=460">
 		<span>Daijirō</span>
