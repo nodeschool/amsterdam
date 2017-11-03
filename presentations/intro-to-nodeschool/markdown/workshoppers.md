@@ -8,7 +8,7 @@ Note:
 
 ## Workshop format
 
-<p class="fragment">We use self guided tutorials, or <strong>workshoppers</strong>, as lesson modules. You can do them on your own, but we encourage you to work together.</p>
+<p class="fragment">NodeSchool workshops are <strong>hands-on</strong>. We use self guided tutorials, or <strong>workshoppers</strong>, as lesson modules. They are made up of <strong>challenges of increasing difficulty</strong> and we have <strong>40+ workshoppers</strong> to choose from.</p>
 
 Note:
 - choose-your-own-adventure style
