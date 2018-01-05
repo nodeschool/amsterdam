@@ -1,12 +1,12 @@
 ### Welcome to NodeSchool Amsterdam
 <img src="images/nodeschool-logo.png" style="border: 0; box-shadow: none; ">
-## Workshop #17
+## Workshop #18
 
 
 ### NodeSchool?
 
 <p class="fragment">NodeSchool is an international <strong>community-driven effort</strong> that teaches <strong>essential software skills</strong>&hellip;</p>
-<p class="fragment">with <strong>~180 chapters</strong> world-wide that have organized nearly <strong>750 events</strong> (and counting).</p>
+<p class="fragment">with <strong>~185 chapters</strong> world-wide that have organized nearly <strong>780 events</strong> (and counting).</p>
 <p class="fragment">For more information, visit:<br><a href="http://nodeschool.io/">http://nodeschool.io/</a></p>
 
 Note:
@@ -79,7 +79,7 @@ Note:
 		<span>George</span>
 		<i class="twitter">@GeorgeSapkin</i>
 	</a> -->
-	<a class="host">
+	<!-- <a class="host">
 		<img src="https://media.licdn.com/media/p/1/000/24d/201/2f6e929.jpg">
 		<span>Todd</span>
 		<i class="twitter">@toddmerrill</i>
@@ -88,7 +88,7 @@ Note:
 		<img src="https://avatars2.githubusercontent.com/u/895154?s=400&v=4">
 		<span>Daan</span>
 		<i class="twitter">@daanpeeer</i>
-	</a>
+	</a> -->
 	<a class="host">
 		<img src="https://avatars2.githubusercontent.com/u/3287987?v=3&s=400">
 		<span>Stefan</span>
