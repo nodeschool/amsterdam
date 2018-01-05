@@ -29,11 +29,11 @@ Note:
 		<span>Rick</span>
 		<i class="twitter">@rickheere</i>
 	</a>
-	<a class="host">
+	<!-- <a class="host">
 		<img src="https://avatars2.githubusercontent.com/u/2011351?v=3&s=460">
 		<span>Alex</span>
 		<i class="twitter">@alextes</i>
-	</a>
+	</a> -->
 	<!-- <a class="host">
 		<img src="https://avatars3.githubusercontent.com/u/944406?v=3&s=460">
 		<span>Titus</span>
@@ -64,11 +64,11 @@ Note:
 		<span>Sannie</span>
 		<i class="twitter">@sanniekwakman</i>
 	</a> -->
-	<a class="host">
+	<!-- <a class="host">
 		<img src="https://avatars0.githubusercontent.com/u/1814479?v=3&s=400">
 		<span>JP</span>
 		<i class="twitter">@jp10k</i>
-	</a>
+	</a> -->
 	<!-- <a class="host">
 		<img src="https://avatars0.githubusercontent.com/u/5583336?v=4&s=460">
 		<span>Mike</span>
